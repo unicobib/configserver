@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  name: "Welcome to Unicobank PROD APIs"
+  contactDetails:
+    name: "Marco Hangsun - Product Manager"
+    email: "hangsun.m12@bank.com"
+  onCallSupport:
+    - (91) 7862-349091
+    - (91) 6547-892346

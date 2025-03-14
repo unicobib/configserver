@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  name: "Welcome to Unicobank Prod Cards APIs"
+  contactDetails:
+    name: "Maheswar Garai - Tech Lead"
+    email: "garai.mahesh@bank.com"
+  onCallSupport:
+    - (91) 4332-091234
+    - (91) 4569-234102

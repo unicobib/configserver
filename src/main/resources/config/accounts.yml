@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  name: "Welcome to Unicobank local APIs"
+  contactDetails:
+    name: "Sujan Dey"
+    email: "sujan.dey@bank.com"
+  onCallSupport:
+    - (91) 9112-789094
+    - (91) 9132-789095

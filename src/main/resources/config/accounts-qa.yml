@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  name: "Welcome to Unicobank QA Accounts APIs"
+  contactDetails:
+    name: "Steve Malo - QA Lead"
+    email: "malo.steve@bank.com"
+  onCallSupport:
+    - (91) 4332-091234
+    - (91) 4569-234102
